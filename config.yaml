@@ -1,0 +1,4 @@
+KEYS:
+  openai: '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'
+GOOGLE:
+  service_account_file: 'service_account.json'
